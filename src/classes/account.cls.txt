@@ -1,1 +1,2 @@
 normal line for feature1
+normal line for feature2
